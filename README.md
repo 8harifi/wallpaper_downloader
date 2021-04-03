@@ -5,3 +5,8 @@ it will first ask you for the title, which is a phrase or a word that you can fi
 
 
 ![image](https://user-images.githubusercontent.com/72849089/113472141-30c1ef80-9476-11eb-92c8-6a2e86193857.png)
+
+
+then it starts downloading all the wallpapers and put them in a specific directory(C:\Users\{Username}\Desktop\wallpapers\{title})
+
+some of the wallpapers are good for mobile phones and some of them good for PCs, but you can automatically sort them with the 'wallpaper_sorter.py' file(wallpapers should be in a specific directory:"C:\Users\{Username}\Desktop\wallpapers\{title}")
