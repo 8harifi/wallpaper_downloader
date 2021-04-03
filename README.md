@@ -10,3 +10,10 @@ it will first ask you for the title, which is a phrase or a word that you can fi
 then it starts downloading all the wallpapers and put them in a specific directory(C:\Users\{Username}\Desktop\wallpapers\{title})
 
 some of the wallpapers are good for mobile phones and some of them good for PCs, but you can automatically sort them with the 'wallpaper_sorter.py' file(wallpapers should be in a specific directory:"C:\Users\{Username}\Desktop\wallpapers\{title}")
+
+
+
+
+
+Don't forget that this script works with selenium and chrome webdriver so you should download the latest version of chrome web driver and put it in the projects folder(https://chromedriver.chromium.org/downloads)
+
